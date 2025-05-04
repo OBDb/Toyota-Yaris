@@ -1,0 +1,91 @@
+command_id: 7E0.0131
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80441319AA8
+  expected_values:
+    CLR_DIST: 39592
+- response: 7E80441319AA9
+  expected_values:
+    CLR_DIST: 39593
+- response: 7E80441319AAA
+  expected_values:
+    CLR_DIST: 39594
+- response: 7E80441319AAB
+  expected_values:
+    CLR_DIST: 39595
+- response: 7E80441319AAC
+  expected_values:
+    CLR_DIST: 39596
+- response: 7E80441319AAD
+  expected_values:
+    CLR_DIST: 39597
+- response: 7E80441319AAE
+  expected_values:
+    CLR_DIST: 39598
+- response: 7E80441319AAF
+  expected_values:
+    CLR_DIST: 39599
+- response: 7E80441319AB0
+  expected_values:
+    CLR_DIST: 39600
+- response: 7E80441319AB1
+  expected_values:
+    CLR_DIST: 39601
+- response: 7E80441319AB2
+  expected_values:
+    CLR_DIST: 39602
+- response: 7E80441319AB3
+  expected_values:
+    CLR_DIST: 39603
+- response: 7E80441319AB4
+  expected_values:
+    CLR_DIST: 39604
+- response: 7E80441319AB5
+  expected_values:
+    CLR_DIST: 39605
+- response: 7E80441319AB7
+  expected_values:
+    CLR_DIST: 39607
+- response: 7E80441319AB8
+  expected_values:
+    CLR_DIST: 39608
+- response: 7E80441319AB9
+  expected_values:
+    CLR_DIST: 39609
+- response: 7E80441319ABA
+  expected_values:
+    CLR_DIST: 39610
+- response: 7E80441319ABB
+  expected_values:
+    CLR_DIST: 39611
+- response: 7E80441319ABC
+  expected_values:
+    CLR_DIST: 39612
+- response: 7E80441319ABD
+  expected_values:
+    CLR_DIST: 39613
+- response: 7E80441319ABE
+  expected_values:
+    CLR_DIST: 39614
+- response: 7E80441319ABF
+  expected_values:
+    CLR_DIST: 39615
+- response: 7E80441319AC0
+  expected_values:
+    CLR_DIST: 39616
+- response: 7E80441319AC1
+  expected_values:
+    CLR_DIST: 39617
+- response: 7E80441319AC2
+  expected_values:
+    CLR_DIST: 39618
+- response: 7E80441319AC3
+  expected_values:
+    CLR_DIST: 39619
+- response: 7E80441319AC4
+  expected_values:
+    CLR_DIST: 39620
+- response: 7E80441319AC5
+  expected_values:
+    CLR_DIST: 39621
