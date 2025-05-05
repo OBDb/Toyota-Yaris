@@ -1,0 +1,94 @@
+command_id: 7E0.7E8.2128
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80561280156A3
+  expected_values:
+    TOYOTA_ODO: 87715
+- response: 7E80561280156A4
+  expected_values:
+    TOYOTA_ODO: 87716
+- response: 7E80561280156A5
+  expected_values:
+    TOYOTA_ODO: 87717
+- response: 7E80561280156A6
+  expected_values:
+    TOYOTA_ODO: 87718
+- response: 7E80561280156A7
+  expected_values:
+    TOYOTA_ODO: 87719
+- response: 7E80561280156A8
+  expected_values:
+    TOYOTA_ODO: 87720
+- response: 7E80561280156A9
+  expected_values:
+    TOYOTA_ODO: 87721
+- response: 7E80561280156AA
+  expected_values:
+    TOYOTA_ODO: 87722
+- response: 7E80561280156AB
+  expected_values:
+    TOYOTA_ODO: 87723
+- response: 7E80561280156AC
+  expected_values:
+    TOYOTA_ODO: 87724
+- response: 7E80561280156AD
+  expected_values:
+    TOYOTA_ODO: 87725
+- response: 7E80561280156AE
+  expected_values:
+    TOYOTA_ODO: 87726
+- response: 7E80561280156AF
+  expected_values:
+    TOYOTA_ODO: 87727
+- response: 7E80561280156B0
+  expected_values:
+    TOYOTA_ODO: 87728
+- response: 7E80561280156B1
+  expected_values:
+    TOYOTA_ODO: 87729
+- response: 7E80561280156B2
+  expected_values:
+    TOYOTA_ODO: 87730
+- response: 7E80561280156B3
+  expected_values:
+    TOYOTA_ODO: 87731
+- response: 7E80561280156B4
+  expected_values:
+    TOYOTA_ODO: 87732
+- response: 7E80561280156B5
+  expected_values:
+    TOYOTA_ODO: 87733
+- response: 7E80561280156B6
+  expected_values:
+    TOYOTA_ODO: 87734
+- response: 7E80561280156B7
+  expected_values:
+    TOYOTA_ODO: 87735
+- response: 7E80561280156B8
+  expected_values:
+    TOYOTA_ODO: 87736
+- response: 7E80561280156B9
+  expected_values:
+    TOYOTA_ODO: 87737
+- response: 7E80561280156BA
+  expected_values:
+    TOYOTA_ODO: 87738
+- response: 7E80561280156BB
+  expected_values:
+    TOYOTA_ODO: 87739
+- response: 7E80561280156BC
+  expected_values:
+    TOYOTA_ODO: 87740
+- response: 7E80561280156BD
+  expected_values:
+    TOYOTA_ODO: 87741
+- response: 7E80561280156BE
+  expected_values:
+    TOYOTA_ODO: 87742
+- response: 7E80561280156BF
+  expected_values:
+    TOYOTA_ODO: 87743
+- response: 7E80561280156C0
+  expected_values:
+    TOYOTA_ODO: 87744
