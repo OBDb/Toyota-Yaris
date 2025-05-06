@@ -5,12 +5,60 @@ test_cases:
 - response: 7C803612904
   expected_values:
     TOYOTA_FLI_VOL: 2
+- response: 7C803612908
+  expected_values:
+    TOYOTA_FLI_VOL: 4
+- response: 7C80361290A
+  expected_values:
+    TOYOTA_FLI_VOL: 5
+- response: 7C80361290C
+  expected_values:
+    TOYOTA_FLI_VOL: 6
+- response: 7C80361290E
+  expected_values:
+    TOYOTA_FLI_VOL: 7
+- response: 7C80361290F
+  expected_values:
+    TOYOTA_FLI_VOL: 7.5
+- response: 7C803612911
+  expected_values:
+    TOYOTA_FLI_VOL: 8.5
+- response: 7C803612913
+  expected_values:
+    TOYOTA_FLI_VOL: 9.5
+- response: 7C803612914
+  expected_values:
+    TOYOTA_FLI_VOL: 10
+- response: 7C803612915
+  expected_values:
+    TOYOTA_FLI_VOL: 10.5
+- response: 7C803612916
+  expected_values:
+    TOYOTA_FLI_VOL: 11
+- response: 7C803612917
+  expected_values:
+    TOYOTA_FLI_VOL: 11.5
+- response: 7C803612918
+  expected_values:
+    TOYOTA_FLI_VOL: 12
+- response: 7C803612919
+  expected_values:
+    TOYOTA_FLI_VOL: 12.5
 - response: 7C80361291A
   expected_values:
     TOYOTA_FLI_VOL: 13
+- response: 7C80361291B
+  expected_values:
+    TOYOTA_FLI_VOL: 13.5
 - response: 7C80361291D
   expected_values:
     TOYOTA_FLI_VOL: 14.5
+- response: 7C80361291E
+  expected_values:
+    TOYOTA_FLI_VOL: 15
+- response: 7C80361291F
+  expected_values:
+    TOYOTA_FLI_VOL: 15.5
 - response: 7C803612920
   expected_values:
     TOYOTA_FLI_VOL: 16
@@ -38,15 +86,66 @@ test_cases:
 - response: 7C803612929
   expected_values:
     TOYOTA_FLI_VOL: 20.5
+- response: 7C80361292B
+  expected_values:
+    TOYOTA_FLI_VOL: 21.5
 - response: 7C80361292C
   expected_values:
     TOYOTA_FLI_VOL: 22
 - response: 7C80361292D
   expected_values:
     TOYOTA_FLI_VOL: 22.5
+- response: 7C80361292F
+  expected_values:
+    TOYOTA_FLI_VOL: 23.5
 - response: 7C803612930
   expected_values:
     TOYOTA_FLI_VOL: 24
+- response: 7C803612931
+  expected_values:
+    TOYOTA_FLI_VOL: 24.5
+- response: 7C803612932
+  expected_values:
+    TOYOTA_FLI_VOL: 25
+- response: 7C803612933
+  expected_values:
+    TOYOTA_FLI_VOL: 25.5
 - response: 7C803612934
   expected_values:
     TOYOTA_FLI_VOL: 26
+- response: 7C803612935
+  expected_values:
+    TOYOTA_FLI_VOL: 26.5
+- response: 7C803612936
+  expected_values:
+    TOYOTA_FLI_VOL: 27
+- response: 7C803612937
+  expected_values:
+    TOYOTA_FLI_VOL: 27.5
+- response: 7C803612938
+  expected_values:
+    TOYOTA_FLI_VOL: 28
+- response: 7C803612939
+  expected_values:
+    TOYOTA_FLI_VOL: 28.5
+- response: 7C80361293A
+  expected_values:
+    TOYOTA_FLI_VOL: 29
+- response: 7C80361293B
+  expected_values:
+    TOYOTA_FLI_VOL: 29.5
+- response: 7C80361293C
+  expected_values:
+    TOYOTA_FLI_VOL: 30
+- response: 7C80361293D
+  expected_values:
+    TOYOTA_FLI_VOL: 30.5
+- response: 7C80361293E
+  expected_values:
+    TOYOTA_FLI_VOL: 31
+- response: 7C80361293F
+  expected_values:
+    TOYOTA_FLI_VOL: 31.5
+- response: 7C803612940
+  expected_values:
+    TOYOTA_FLI_VOL: 32
