@@ -2,7 +2,7 @@ command_id: 7B0.7B8.2147
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
-- response: 7B807614700007D7ED4
+- response: 7B80761470000796FFB
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
 - response: 7B80761470000807100
@@ -11,13 +11,10 @@ test_cases:
 - response: 7B80761470000807FFF
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
-- response: 7B80761470000876FD4
+- response: 7B807614700FF7E7EF7
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
-- response: 7B807614700FF7F7F79
-  expected_values:
-    TOYOTA_STEER_ANGLE: -1000
-- response: 7B807614704018F903E
+- response: 7B807614700FF80903F
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
 - response: 7B80761470F00A69053
@@ -26,6 +23,6 @@ test_cases:
 - response: 7B8076147EDFE617917
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
-- response: 7B8076147FF007F7FD7
+- response: 7B8076147FF00798E45
   expected_values:
     TOYOTA_STEER_ANGLE: -1000
