@@ -1,16 +1,14 @@
 command_id: 7E0.7E8.2128
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 test_cases:
-- response: 7E80561280156A3
-  expected_values:
+- expected_values:
     TOYOTA_ODO: 87715
-- response: 7E80561280156FF
-  expected_values:
+  response: 7E80561280156A3
+- expected_values:
     TOYOTA_ODO: 87807
-- response: '7E8056128015700'
-  expected_values:
+  response: 7E80561280156FF
+- expected_values:
     TOYOTA_ODO: 87808
-- response: '7E8056128015800'
-  expected_values:
-    TOYOTA_ODO: 88064
+  response: '7E8056128015700'
+- expected_values:
+    TOYOTA_ODO: 88833
+  response: 7E8056128015B01
