@@ -1,6 +1,18 @@
 command_id: 7B0.2103
 test_cases:
 - expected_values:
+    TOYOTA_TIRE_FL_SPD: 51.2
+    TOYOTA_TIRE_FR_SPD: 52.48
+    TOYOTA_TIRE_RL_SPD: 52.48
+    TOYOTA_TIRE_RR_SPD: 52.48
+  response: "2103\n7B8 06 61 03 29 28 29 29 "
+- expected_values:
+    TOYOTA_TIRE_FL_SPD: 53.76
+    TOYOTA_TIRE_FR_SPD: 55.04
+    TOYOTA_TIRE_RL_SPD: 55.04
+    TOYOTA_TIRE_RR_SPD: 55.04
+  response: "21031\n7B8 06 61 03 2B 2A 2B 2B "
+- expected_values:
     TOYOTA_TIRE_FL_SPD: 0
     TOYOTA_TIRE_FR_SPD: 0
     TOYOTA_TIRE_RL_SPD: 0

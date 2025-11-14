@@ -1,41 +1,17 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
+    TOYOTA_VSS: 54
+    TOYOTA_VSS_V3: 51.2
+  response: "2121\n7B8 03 61 21 28 "
+- expected_values:
+    TOYOTA_VSS: 48.6
+    TOYOTA_VSS_V3: 46.08
+  response: "21211\n7B8 03 61 21 24 "
+- expected_values:
     TOYOTA_VSS: 0
     TOYOTA_VSS_V3: 0
   response: 7B803612100
-- expected_values:
-    TOYOTA_VSS: 6.75
-    TOYOTA_VSS_V3: 6.4
-  response: 7B803612105
-- expected_values:
-    TOYOTA_VSS: 8.1
-    TOYOTA_VSS_V3: 7.68
-  response: 7B803612106
-- expected_values:
-    TOYOTA_VSS: 9.45
-    TOYOTA_VSS_V3: 8.96
-  response: 7B803612107
-- expected_values:
-    TOYOTA_VSS: 36.45
-    TOYOTA_VSS_V3: 34.56
-  response: 7B80361211B
-- expected_values:
-    TOYOTA_VSS: 45.9
-    TOYOTA_VSS_V3: 43.52
-  response: 7B803612122
-- expected_values:
-    TOYOTA_VSS: 47.25
-    TOYOTA_VSS_V3: 44.8
-  response: 7B803612123
-- expected_values:
-    TOYOTA_VSS: 51.3
-    TOYOTA_VSS_V3: 48.64
-  response: 7B803612126
-- expected_values:
-    TOYOTA_VSS: 64.8
-    TOYOTA_VSS_V3: 61.44
-  response: 7B803612130
 - expected_values:
     TOYOTA_VSS: 114.75
     TOYOTA_VSS_V3: 108.8
