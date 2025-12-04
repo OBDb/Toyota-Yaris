@@ -1,14 +1,14 @@
 command_id: 7D2.7DA.2215F7
 test_cases:
 - expected_values:
-    TOYOTA_12V_C: 1.84259
-  response: 7DA056215F781E3
+    TOYOTA_12V_C: 0.49219
+  response: 7DA056215F78081
 - expected_values:
-    TOYOTA_12V_C: 1.97229
-  response: 7DA056215F78205
+    TOYOTA_12V_C: 0.96902
+  response: 7DA056215F780FE
 - expected_values:
-    TOYOTA_12V_C: 2.38046
-  response: 7DA056215F78270
+    TOYOTA_12V_C: 1.95322
+  response: 7DA056215F78200
 - expected_values:
-    TOYOTA_12V_C: 2.43387
-  response: 7DA056215F7827E
+    TOYOTA_12V_C: 6.09598
+  response: 7DA056215F7863E
