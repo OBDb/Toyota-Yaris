@@ -16,6 +16,9 @@ test_cases:
     TOYOTA_INVRT_COOLANT_T: 16
   response: 7DA046210B238
 - expected_values:
+    TOYOTA_INVRT_COOLANT_T: 17
+  response: 7DA046210B239
+- expected_values:
     TOYOTA_INVRT_COOLANT_T: 18
   response: 7DA046210B23A
 - expected_values:
