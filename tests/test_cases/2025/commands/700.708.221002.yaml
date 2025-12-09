@@ -2,17 +2,13 @@ command_id: 700.708.221002
 test_cases:
 - expected_values:
     TOYOTA_12V_V: 12.61227
-    TOYOTA_BAT_VOLTAGE: 12.61227
   response: 70805621002285C
 - expected_values:
     TOYOTA_12V_V: 14.05758
-    TOYOTA_BAT_VOLTAGE: 14.05758
   response: 708056210022CFC
 - expected_values:
     TOYOTA_12V_V: 14.06246
-    TOYOTA_BAT_VOLTAGE: 14.06246
   response: 708056210022D00
 - expected_values:
     TOYOTA_12V_V: 14.39938
-    TOYOTA_BAT_VOLTAGE: 14.39938
   response: '708056210022E14'
