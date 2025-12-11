@@ -1,11 +1,11 @@
 command_id: 7D2.7DA.2210A1
 test_cases:
 - expected_values:
-    TOYOTA_RPM: -360
-    TOYOTA_TQ: -11.25
+    TOYOTA_RPM: -412
+    TOYOTA_TQ: -10.625
   response: |-
-    7DA100C6210A17E987F
-    7DA21A602007FA60400
+    7DA100C6210A17E647F
+    7DA21AB02007FAB0400
 - expected_values:
     TOYOTA_RPM: -257
     TOYOTA_TQ: -16.5
