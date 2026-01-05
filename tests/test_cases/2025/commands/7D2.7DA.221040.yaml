@@ -10,5 +10,5 @@ test_cases:
     TOYOTA_TRANSAXLE_OIL_T: 32
   response: 7DA06621040C10048
 - expected_values:
-    TOYOTA_TRANSAXLE_OIL_T: 3
-  response: 7DA06621040DC502B
+    TOYOTA_TRANSAXLE_OIL_T: 2
+  response: 7DA06621040DD202A
