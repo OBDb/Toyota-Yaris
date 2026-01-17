@@ -1,0 +1,29 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    TOYOTA_VSS_V2: 0
+  response: 7C803612100
+- expected_values:
+    TOYOTA_VSS_V2: 35
+  response: 7C803612123
+- expected_values:
+    TOYOTA_VSS_V2: 53
+  response: 7C803612135
+- expected_values:
+    TOYOTA_VSS_V2: 60
+  response: 7C80361213C
+- expected_values:
+    TOYOTA_VSS_V2: 85
+  response: 7C803612155
+- expected_values:
+    TOYOTA_VSS_V2: 86
+  response: 7C803612156
+- expected_values:
+    TOYOTA_VSS_V2: 87
+  response: 7C803612157
+- expected_values:
+    TOYOTA_VSS_V2: 88
+  response: 7C803612158
+- expected_values:
+    TOYOTA_VSS_V2: 91
+  response: 7C80361215B
