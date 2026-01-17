@@ -8,7 +8,7 @@ test_cases:
   response: 7E807612100000000E0
 - expected_values:
     TOYOTA_CC_VSS: 0
-  response: 7E807612100000080E0
+  response: '7E80761210000008060'
 - expected_values:
     TOYOTA_CC_VSS: 89
   response: '7E80761215900008000'
