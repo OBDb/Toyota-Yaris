@@ -5,6 +5,6 @@ test_cases:
     TOYOTA_ECT_7C0: 56.5
   response: 7C803612371
 - expected_values:
-    TOYOTA_COOLANT_T: 87
-    TOYOTA_ECT_7C0: 87
-  response: 7C8036123AE
+    TOYOTA_COOLANT_T: 91.5
+    TOYOTA_ECT_7C0: 91.5
+  response: 7C8036123B7
