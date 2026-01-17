@@ -4,20 +4,5 @@ test_cases:
     TOYOTA_AAT_7C4: 8.9
   response: 7CC0361225C
 - expected_values:
-    TOYOTA_AAT_7C4: 9.25
-  response: 7CC0361225D
-- expected_values:
-    TOYOTA_AAT_7C4: 9.6
-  response: 7CC0361225E
-- expected_values:
-    TOYOTA_AAT_7C4: 9.95
-  response: 7CC0361225F
-- expected_values:
-    TOYOTA_AAT_7C4: 17.65
-  response: 7CC03612275
-- expected_values:
-    TOYOTA_AAT_7C4: 18
-  response: 7CC03612276
-- expected_values:
     TOYOTA_AAT_7C4: 18.35
   response: 7CC03612277
