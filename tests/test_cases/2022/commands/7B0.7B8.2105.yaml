@@ -1,0 +1,26 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    TOYOTA_DECEL: 0.07129
+    TOYOTA_DECEL_2: 0.07129
+  response: |-
+    7B810096105808002F2
+    7B82100006E00000000
+- expected_values:
+    TOYOTA_DECEL: 0.07129
+    TOYOTA_DECEL_2: 0.07129
+  response: |-
+    7B810096105808002FE
+    7B82100005500000000
+- expected_values:
+    TOYOTA_DECEL: 0.07129
+    TOYOTA_DECEL_2: 0.07129
+  response: |-
+    7B8100961058080030B
+    7B82100004300000000
+- expected_values:
+    TOYOTA_DECEL: 0.64165
+    TOYOTA_DECEL_2: 0.21388
+  response: |-
+    7B810096105848108F4
+    7B821550D5900000000
