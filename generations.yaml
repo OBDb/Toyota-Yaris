@@ -1,6 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Yaris"
+
 generations:
   - name: "First Generation (XP10)"
-    start_year: 1999
+    start_year: 1998
     end_year: 2005
     description: "The first-generation Toyota Yaris (marketed as the Echo in North America and the Vitz in Japan) was introduced as Toyota's new global subcompact car, replacing the Tercel/Starlet in various markets. Featuring distinctive, somewhat polarizing styling with a tall, rounded profile maximizing interior space within minimal exterior dimensions, the original Yaris established a design philosophy prioritizing interior packaging efficiency. Available in three-door and five-door hatchback configurations plus a sedan variant (primarily for North America), the Yaris was powered by a range of small-displacement engines including 1.0, 1.3, and 1.5-liter units, paired with either manual or automatic transmissions. The interior featured an unconventional center-mounted instrument cluster and surprisingly spacious accommodations given the compact exterior, with clever storage solutions and flexible seating arrangements. Safety features were relatively advanced for the segment and era, with available ABS and multiple airbags. This generation successfully established the Yaris/Echo/Vitz as Toyota's entry-level global offering, appealing to buyers seeking efficiency, value, and Toyota's reputation for reliability in a compact package, though the North American Echo variant faced criticism for its unconventional styling and sparse standard equipment."
 
