@@ -6,8 +6,8 @@ test_cases:
   response: '708056210430006'
 - expected_values:
     TOYOTA_EWP_RPM: 6375
-    TOYOTA_EWP_TARGET_VSS: 5950
-  response: 70805621043EEFF
+    TOYOTA_EWP_TARGET_VSS: 5825
+  response: 70805621043E9FF
 - expected_values:
     TOYOTA_EWP_RPM: 5975
     TOYOTA_EWP_TARGET_VSS: 6375
