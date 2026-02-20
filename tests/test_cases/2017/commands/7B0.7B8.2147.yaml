@@ -1,0 +1,38 @@
+command_id: 7B0.7B8.2147
+test_cases:
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: 2.5
+    TOYOTA_YAW: -1
+    TOYOTA_YAW_RATE_V2: -1
+  response: 7B8066147007F7FD5
+- expected_values:
+    TOYOTA_LAT_G: 0
+    TOYOTA_LNG_G: -2.5
+    TOYOTA_YAW: 0
+    TOYOTA_YAW_RATE_V2: 0
+  response: 7B806614700808018
+- expected_values:
+    TOYOTA_LAT_G: 0.02
+    TOYOTA_LNG_G: -2.5
+    TOYOTA_YAW: -1
+    TOYOTA_YAW_RATE_V2: -1
+  response: 7B806614701807FF5
+- expected_values:
+    TOYOTA_LAT_G: 0.02
+    TOYOTA_LNG_G: -2.5
+    TOYOTA_YAW: 0
+    TOYOTA_YAW_RATE_V2: 0
+  response: 7B806614701818041
+- expected_values:
+    TOYOTA_LAT_G: 0.1
+    TOYOTA_LNG_G: -2.44
+    TOYOTA_YAW: 1
+    TOYOTA_YAW_RATE_V2: 1
+  response: 7B806614705868122
+- expected_values:
+    TOYOTA_LAT_G: -0.12
+    TOYOTA_LNG_G: 2.5
+    TOYOTA_YAW: -1
+    TOYOTA_YAW_RATE_V2: -1
+  response: 7B8066147FA7E7F99
