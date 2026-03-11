@@ -1,0 +1,6 @@
+model_year: 2001
+unsupported_commands_by_ecu:
+  "6F1":
+  - 6F1.22DA22|e=18,fc=1:TOYOTA_TQ_CNVRT_LOCKUP
+  "700":
+  - 700.708.22106C:TOYOTA_DIST_SINCE_BAT_DISC
