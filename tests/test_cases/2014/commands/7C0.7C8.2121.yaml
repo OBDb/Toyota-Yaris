@@ -1,0 +1,16 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    TOYOTA_VSS_V2: 6
+  response: 7C80361210600000000
+- expected_values:
+    TOYOTA_VSS_V2: 0
+  response: |-
+    > 700.708.22109A
+    CAN ERROR
+    NO DATA
+    > 750.758.2130|e=2A,ta=2A,fc=1
+    CAN ERROR
+    NO DATA
+    > 7C0.7C8.2121
+    7C80361210000000000

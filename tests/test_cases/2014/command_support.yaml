@@ -1,0 +1,7 @@
+model_year: 2014
+supported_commands_by_ecu:
+  "7C4":
+  - 7C4.7CC.2121:TOYOTA_CABIN_T
+unsupported_commands_by_ecu:
+  "700":
+  - 700.708.221002:TOYOTA_12V_V
