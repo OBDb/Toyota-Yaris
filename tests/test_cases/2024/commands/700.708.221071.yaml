@@ -1,0 +1,14 @@
+command_id: 700.708.221071
+test_cases:
+- expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 0
+  response: '708056210710000'
+- expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 9.90095
+  response: 7080562107103F6
+- expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 11.66828
+  response: 7080562107104AB
+- expected_values:
+    TOYOTA_EXHAUST_VVT_TARGET_ANGLE_B1: 26.06078
+  response: 708056210710A6D
