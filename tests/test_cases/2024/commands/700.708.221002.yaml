@@ -1,32 +1,14 @@
 command_id: 700.708.221002
 test_cases:
 - expected_values:
-    TOYOTA_12V_V: 12.79294
-  response: 7080562100228F0
-- expected_values:
-    TOYOTA_12V_V: 12.8027
-  response: 7080562100228F8
+    TOYOTA_12V_V: 12.74899
+  response: 7080562100228CC
 - expected_values:
     TOYOTA_12V_V: 12.80758
   response: 7080562100228FC
 - expected_values:
-    TOYOTA_12V_V: 12.832
-  response: '708056210022910'
+    TOYOTA_12V_V: 12.81735
+  response: '708056210022904'
 - expected_values:
-    TOYOTA_12V_V: 12.84176
-  response: '708056210022918'
-- expected_values:
-    TOYOTA_12V_V: 12.89547
-  response: '708056210022944'
-- expected_values:
-    TOYOTA_12V_V: 14.082
-  response: 708056210022D10
-- expected_values:
-    TOYOTA_12V_V: 14.10153
-  response: 708056210022D20
-- expected_values:
-    TOYOTA_12V_V: 14.10641
-  response: 708056210022D24
-- expected_values:
-    TOYOTA_12V_V: 14.41403
-  response: '708056210022E20'
+    TOYOTA_12V_V: 14.40426
+  response: '708056210022E18'
