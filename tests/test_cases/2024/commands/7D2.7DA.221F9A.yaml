@@ -1,6 +1,12 @@
 command_id: 7D2.7DA.221F9A
 test_cases:
 - expected_values:
+    TOYOTA_HVBAT_C: 121.4
+    TOYOTA_HVBAT_V: 166
+  response: |-
+    7DA1009621F9A0E0029
+    7DA218004BE00000000
+- expected_values:
     TOYOTA_HVBAT_C: 158.3
     TOYOTA_HVBAT_V: 169
   response: |-
