@@ -1,19 +1,13 @@
 command_id: 7B0.7B8.2121
 test_cases:
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 1.28
-    TOYOTA_VSS: 1.35
-    TOYOTA_VSS_V3: 1.28
+    YARIS_VSS: 1.35
   response: 7B80361210100000000
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 6.4
-    TOYOTA_VSS: 6.75
-    TOYOTA_VSS_V3: 6.4
+    YARIS_VSS: 6.75
   response: 7B80361210500000000
 - expected_values:
-    TOYOTA_VEHICLE_SPEED_7B0: 0
-    TOYOTA_VSS: 0
-    TOYOTA_VSS_V3: 0
+    YARIS_VSS: 0
   response: |-
     > 6F1.22DA12|e=18,fc=1
     CAN ERROR

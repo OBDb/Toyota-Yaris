@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2142
+test_cases:
+- expected_values:
+    YARIS_BAT_CURRENT: -78.2845
+  response: 7E80461422FD6
+- expected_values:
+    YARIS_BAT_CURRENT: -76.20165
+  response: 7E804614231F8
+- expected_values:
+    YARIS_BAT_CURRENT: -72.24956
+  response: '7E80461423604'

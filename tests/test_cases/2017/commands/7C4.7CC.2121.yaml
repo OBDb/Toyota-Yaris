@@ -1,8 +1,8 @@
 command_id: 7C4.7CC.2121
 test_cases:
 - expected_values:
-    TOYOTA_CABIN_T: 10.75
+    YARIS_CABIN_T: 10.75
   response: 7CC03612145
 - expected_values:
-    TOYOTA_CABIN_T: 30
+    YARIS_CABIN_T: 30
   response: 7CC03612192

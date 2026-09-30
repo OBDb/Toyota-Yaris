@@ -1,10 +1,10 @@
 command_id: 7E0.7E8.2106
 test_cases:
 - expected_values:
-    TOYOTA_MIL: 0
-    TOYOTA_NUMBER_OF_EMISSION_DTC: 111
+    YARIS_MIL: 0
+    YARIS_NUMBER_OF_EMISSION_DTC: 111
   response: 7E80361066F
 - expected_values:
-    TOYOTA_MIL: 1
-    TOYOTA_NUMBER_OF_EMISSION_DTC: 13
+    YARIS_MIL: 1
+    YARIS_NUMBER_OF_EMISSION_DTC: 13
   response: 7E80361068D

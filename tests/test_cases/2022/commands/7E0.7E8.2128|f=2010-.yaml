@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2128|f=2010-
+test_cases:
+- expected_values:
+    YARIS_ODO: 92828
+  response: 7E8056128016A9C
+- expected_values:
+    YARIS_ODO: 92854
+  response: 7E8056128016AB6

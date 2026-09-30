@@ -1,0 +1,92 @@
+command_id: 7D2.7DA.2210A1|f=2024-
+test_cases:
+- expected_values:
+    YARIS_RPM_7D2: -744
+    YARIS_TQ: -10.75
+  response: |-
+    7DA100C6210A17D187F
+    7DA21CD02007FAA0400
+- expected_values:
+    YARIS_RPM_7D2: -706
+    YARIS_TQ: -2
+  response: |-
+    7DA100C6210A17D3E7F
+    7DA21F502007FF00400
+- expected_values:
+    YARIS_RPM_7D2: -257
+    YARIS_TQ: -16.5
+  response: |-
+    7DA100C6210A17EFF7F
+    7DA218302007F7C0400
+- expected_values:
+    YARIS_RPM_7D2: -243
+    YARIS_TQ: -20.375
+  response: |-
+    7DA100C6210A17F0D7F
+    7DA215F02007F5D0400
+- expected_values:
+    YARIS_RPM_7D2: -199
+    YARIS_TQ: -32.5
+  response: |-
+    7DA100C6210A17F397F
+    7DA210302007EFC0400
+- expected_values:
+    YARIS_RPM_7D2: -105
+    YARIS_TQ: -4.125
+  response: |-
+    7DA100C6210A17F977F
+    7DA21E302007FDF0400
+- expected_values:
+    YARIS_RPM_7D2: -104
+    YARIS_TQ: -25
+  response: |-
+    7DA100C6210A17F987F
+    7DA214002007F380400
+- expected_values:
+    YARIS_RPM_7D2: -6
+    YARIS_TQ: 0
+  response: |-
+    7DA100C6210A17FFA80
+    7DA2100020080000400
+- expected_values:
+    YARIS_RPM_7D2: -1
+    YARIS_TQ: -0.125
+  response: |-
+    7DA100C6210A17FFF80
+    7DA210002007FFF0000
+- expected_values:
+    YARIS_RPM_7D2: 0
+    YARIS_TQ: -24.5
+  response: |-
+    7DA100C6210A180007F
+    7DA213D02007F3C0400
+- expected_values:
+    YARIS_RPM_7D2: 36
+    YARIS_TQ: -77
+  response: |-
+    7DA100C6210A180247D
+    7DA21B602007D980400
+- expected_values:
+    YARIS_RPM_7D2: 676
+    YARIS_TQ: 99.5
+  response: |-
+    7DA100C6210A182A483
+    7DA210A0200831C0400
+- expected_values:
+    YARIS_RPM_7D2: 2983
+    YARIS_TQ: 22.5
+  response: |-
+    7DA100C6210A18BA780
+    7DA21AA020280B40400
+- expected_values:
+    YARIS_RPM_7D2: 7332
+    YARIS_TQ: 5.125
+  response: |-
+    7DA100C6210A19CA480
+    7DA2121040280290400
+- expected_values:
+    YARIS_RPM_7D2: 10891
+    YARIS_TQ: -9.5
+  response: |-
+    7DA100C6210A1AA8B7F
+    7DA21B504027FB40400
