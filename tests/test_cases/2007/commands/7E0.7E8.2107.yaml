@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2107
+test_cases:
+- expected_values:
+    YARIS_LTFT1_21: -9.40627
+  response: '7E803610774'
+- expected_values:
+    YARIS_LTFT1_21: 6.99431
+  response: '7E803610789'

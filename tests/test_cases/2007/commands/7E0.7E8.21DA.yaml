@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.21DA
 test_cases:
 - expected_values:
-    TOYOTA_GEAR_V3: 1
+    YARIS_GEAR_V2: 1
   response: 7E80561DA010400
 - expected_values:
-    TOYOTA_GEAR_V3: 2
+    YARIS_GEAR_V2: 2
   response: 7E80561DA020400
 - expected_values:
-    TOYOTA_GEAR_V3: 3
+    YARIS_GEAR_V2: 3
   response: 7E80561DA030400
 - expected_values:
-    TOYOTA_GEAR_V3: 4
+    YARIS_GEAR_V2: 4
   response: 7E80561DA040400
 - expected_values:
-    TOYOTA_GEAR_V3: 20
+    YARIS_GEAR_V2: 20
   response: 7E80561DA140600
 - expected_values:
-    TOYOTA_GEAR_V3: 35
+    YARIS_GEAR_V2: 35
   response: 7E80561DA230400
 - expected_values:
-    TOYOTA_GEAR_V3: 84
+    YARIS_GEAR_V2: 84
   response: 7E80561DA540600

@@ -1,17 +1,14 @@
 command_id: 7C0.7C8.221022
 test_cases:
 - expected_values:
-    TOYOTA_FLV: 2.54
-    TOYOTA_FUEL_LEVEL: 2.54
+    YARIS_FUEL_LEVEL: 2.54
   response: 7C80562102200FE
 - expected_values:
-    TOYOTA_FLV: 12.8
-    TOYOTA_FUEL_LEVEL: 12.8
+    YARIS_FUEL_LEVEL: 12.8
   response: 7C8056210220500
 - expected_values:
-    TOYOTA_FLV: 33.27
-    TOYOTA_FUEL_LEVEL: 33.27
+    YARIS_FUEL_LEVEL: 33.27
   response: 7C8056210220CFF
 - expected_values:
-    TOYOTA_FUEL_LEVEL: 655.35
-  response: 7C805621022FFFF
+    YARIS_FUEL_LEVEL: 33.3
+  response: 7C8056210220D02

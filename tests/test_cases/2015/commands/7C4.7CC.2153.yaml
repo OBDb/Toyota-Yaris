@@ -1,17 +1,17 @@
 command_id: 7C4.7CC.2153
 test_cases:
 - expected_values:
-    TOYOTA_REGULATOR_P: 1.02903
+    YARIS_REGULATOR_P: 1029.03
   response: 7CC03615365
 - expected_values:
-    TOYOTA_REGULATOR_P: 1.04374
+    YARIS_REGULATOR_P: 1043.74
   response: 7CC03615366
 - expected_values:
-    TOYOTA_REGULATOR_P: 1.05845
+    YARIS_REGULATOR_P: 1058.45
   response: 7CC03615367
 - expected_values:
-    TOYOTA_REGULATOR_P: 1.11729
+    YARIS_REGULATOR_P: 1117.29
   response: 7CC0361536B
 - expected_values:
-    TOYOTA_REGULATOR_P: 1.132
+    YARIS_REGULATOR_P: 1132
   response: 7CC0361536C

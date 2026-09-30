@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2101|f=-2016
+test_cases:
+- expected_values:
+    YARIS_CALCULATED_LOAD_7E0: 0
+  response: '7E806610100076100'
