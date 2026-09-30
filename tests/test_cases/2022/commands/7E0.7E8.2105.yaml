@@ -1,23 +1,23 @@
 command_id: 7E0.7E8.2105
 test_cases:
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 130.9
+    YARIS_CAT_T_B1S1: 130.9
   response: 7E80661050E6A06AD
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 74.1
+    YARIS_CAT_T_B1S1: 74.1
   response: 7E80661050FB90475
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 482
+    YARIS_CAT_T_B1S1: 482
   response: 7E806610518FD1464
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 311.4
+    YARIS_CAT_T_B1S1: 311.4
   response: 7E806610519000DBA
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 497.1
+    YARIS_CAT_T_B1S1: 497.1
   response: 7E80661051AC214FB
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 574.5
+    YARIS_CAT_T_B1S1: 574.5
   response: 7E80661051C691801
 - expected_values:
-    TOYOTA_CATALYST_T_B1S1: 588.7
+    YARIS_CAT_T_B1S1: 588.7
   response: 7E80661051D22188F

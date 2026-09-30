@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221F05|f=2024-
+test_cases:
+- expected_values:
+    YARIS_COOL_T: 4
+  response: 7DA04621F052C
+- expected_values:
+    YARIS_COOL_T: 86
+  response: 7DA04621F057E

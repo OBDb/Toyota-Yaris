@@ -1,0 +1,14 @@
+command_id: 747.74F.220103|fc=1,f=2024-
+test_cases:
+- expected_values:
+    YARIS_ODO_V6: 10222
+  response: 74F07620103010027EE
+- expected_values:
+    YARIS_ODO_V6: 10239
+  response: 74F07620103010027FF
+- expected_values:
+    YARIS_ODO_V6: 10240
+  response: 74F0762010301002800
+- expected_values:
+    YARIS_ODO_V6: 12039
+  response: 74F0762010301002F07

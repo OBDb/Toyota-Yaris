@@ -1,18 +1,14 @@
 command_id: 700.708.221074
 test_cases:
 - expected_values:
-    TOYOTA_ENG_OIL_PRESS: 1.17188
-    TOYOTA_EOP: 15
+    YARIS_EOP: 1.17188
   response: 70805621074000F
 - expected_values:
-    TOYOTA_ENG_OIL_PRESS: 40.23438
-    TOYOTA_EOP: 515
+    YARIS_EOP: 40.23438
   response: '708056210740203'
 - expected_values:
-    TOYOTA_ENG_OIL_PRESS: 439.92188
-    TOYOTA_EOP: 5631
+    YARIS_EOP: 439.92188
   response: 7080562107415FF
 - expected_values:
-    TOYOTA_ENG_OIL_PRESS: 522.26562
-    TOYOTA_EOP: 6685
+    YARIS_EOP: 522.26562
   response: 708056210741A1D

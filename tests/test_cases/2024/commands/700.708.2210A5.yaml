@@ -1,37 +1,37 @@
 command_id: 700.708.2210A5
 test_cases:
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100380000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     70821004F0000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100500000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A5000000
     7082100800000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A50000FC
     7082100000000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A50000FF
     70821006A0000000000
 - expected_values:
-    TOYOTA_MISFIRE_CNT: 0
+    YARIS_MISFIRE_CNT: 0
   response: |-
     70810086210A5000100
     7082100700000000000

@@ -1,0 +1,5 @@
+command_id: 7C4.7CC.2144
+test_cases:
+- expected_values:
+    YARIS_AIR_INLET_DAMPER_TARGET_PULSE: 6
+  response: 7CC03614406

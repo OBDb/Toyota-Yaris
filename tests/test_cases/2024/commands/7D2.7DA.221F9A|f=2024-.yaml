@@ -1,0 +1,56 @@
+command_id: 7D2.7DA.221F9A|f=2024-
+test_cases:
+- expected_values:
+    YARIS_HVBAT_C: 121.4
+    YARIS_HVBAT_V: 166
+  response: |-
+    7DA1009621F9A0E0029
+    7DA218004BE00000000
+- expected_values:
+    YARIS_HVBAT_C: 110.8
+    YARIS_HVBAT_V: 167
+  response: |-
+    7DA1009621F9A0E0029
+    7DA21C0045400000000
+- expected_values:
+    YARIS_HVBAT_C: 73.2
+    YARIS_HVBAT_V: 168
+  response: |-
+    7DA1009621F9A0E002A
+    7DA210002DC00000000
+- expected_values:
+    YARIS_HVBAT_C: 1.4
+    YARIS_HVBAT_V: 169
+  response: |-
+    7DA1009621F9A0E002A
+    7DA2140000E00000000
+- expected_values:
+    YARIS_HVBAT_C: 4.8
+    YARIS_HVBAT_V: 169
+  response: |-
+    7DA1009621F9A0E002A
+    7DA2140003000000000
+- expected_values:
+    YARIS_HVBAT_C: 158.3
+    YARIS_HVBAT_V: 169
+  response: |-
+    7DA1009621F9A0E002A
+    7DA2140062F00000000
+- expected_values:
+    YARIS_HVBAT_C: -20.2
+    YARIS_HVBAT_V: 171
+  response: |-
+    7DA1009621F9A0E002A
+    7DA21C0FF3600000000
+- expected_values:
+    YARIS_HVBAT_C: -0.1
+    YARIS_HVBAT_V: 171
+  response: |-
+    7DA1009621F9A0E002A
+    7DA21C0FFFF00000000
+- expected_values:
+    YARIS_HVBAT_C: -97.7
+    YARIS_HVBAT_V: 180
+  response: |-
+    7DA1009621F9A0E002D
+    7DA2100FC2F00000000

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2144
+test_cases:
+- expected_values:
+    YARIS_VARIABLE_VLV_TIM_AIM_1: 184.88701
+  response: 7E8046144765B
+- expected_values:
+    YARIS_VARIABLE_VLV_TIM_AIM_1: 192.11187
+  response: 7E80461447AFB
+- expected_values:
+    YARIS_VARIABLE_VLV_TIM_AIM_1: 199.95305
+  response: '7E80461448000'
+- expected_values:
+    YARIS_VARIABLE_VLV_TIM_AIM_1: 207.14741
+  response: 7E8046144849B

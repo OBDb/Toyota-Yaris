@@ -1,10 +1,10 @@
 command_id: 7C0.7C8.2121
 test_cases:
 - expected_values:
-    TOYOTA_VSS_V2: 6
+    YARIS_VSS_7C0: 6
   response: 7C80361210600000000
 - expected_values:
-    TOYOTA_VSS_V2: 0
+    YARIS_VSS_7C0: 0
   response: |-
     > 700.708.22109A
     CAN ERROR

@@ -1,0 +1,14 @@
+command_id: 7D2.7DA.220103|fc=1,f=2024-
+test_cases:
+- expected_values:
+    YARIS_ODO_V2_V2: 12837
+  response: 7DA0762010301003225
+- expected_values:
+    YARIS_ODO_V2_V2: 13567
+  response: 7DA07620103010034FF
+- expected_values:
+    YARIS_ODO_V2_V2: 13568
+  response: 7DA0762010301003500
+- expected_values:
+    YARIS_ODO_V2_V2: 14101
+  response: 7DA0762010301003715
