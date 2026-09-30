@@ -554,11 +554,11 @@
   ]},
 { "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "cmd": {"22": "1005"}, "freq": 15, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
-    {"id": "YARIS_TP_1", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
-    {"id": "YARIS_TP_2", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
-    {"id": "YARIS_TP_3", "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "YARIS_TP_4", "path": "Tires", "fmt": {"bix": 56, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "YARIS_TP_5", "path": "Tires", "fmt": {"bix": 72, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "unit": "psi" }, "name": "Spare tire pressure"}
+    {"id": "YARIS_TP_1", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "nullmax": 56.1212, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
+    {"id": "YARIS_TP_2", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "nullmax": 56.1212, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
+    {"id": "YARIS_TP_3", "path": "Tires", "fmt": {"bix": 40, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "nullmax": 56.1212, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "YARIS_TP_4", "path": "Tires", "fmt": {"bix": 56, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "nullmax": 56.1212, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
+    {"id": "YARIS_TP_5", "path": "Tires", "fmt": {"bix": 72, "len": 8, "max": 56.1212, "div": 4.125, "add": -5.6969697, "nullmin": 0, "nullmax": 56.1212, "unit": "psi" }, "name": "Spare tire pressure"}
   ]},
 { "hdr": "750", "rax": "758", "eax": "2A", "tst": "2A", "fcm1": true, "cmd": {"22": "2021"}, "freq": 86400, "dbgfilter": { "to": 2023, "from": 2026 },
   "signals": [
@@ -866,23 +866,7 @@
   ]},
 { "hdr": "7D0", "rax": "7D8", "cmd": {"21": "62"}, "freq": 1, "dbgfilter": { "to": 2016, "from": 2019 },
   "signals": [
-    {"id": "YARIS_PARKING_BRAKE", "path": "Control", "name": "Parking brake", "fmt": {"len": 8, "map": {
-          "1":   { "description": "Off", "value": "OFF" },
-          "3":   { "description": "On",  "value": "ON" },
-          "5":   { "description": "Off", "value": "OFF" },
-          "7":   { "description": "On",  "value": "ON" },
-          "9":   { "description": "Off", "value": "OFF" },
-          "11":  { "description": "On",  "value": "ON" },
-          "16":  { "description": "Off", "value": "OFF" },
-          "25":  { "description": "Off", "value": "OFF" },
-          "27":  { "description": "On",  "value": "ON" },
-          "48":  { "description": "On",  "value": "ON" },
-          "144": { "description": "Off", "value": "OFF" },
-          "176": { "description": "On",  "value": "ON" },
-          "208": { "description": "Off", "value": "OFF" },
-          "240": { "description": "On",  "value": "ON" }
-        }}
-    }
+    {"id": "YARIS_PARKING_BRAKE", "path": "Control", "fmt": {"bix": 6, "len": 1, "max": 1, "unit": "offon" }, "name": "Parking brake"}
   ]},
 { "hdr": "7D2", "rax": "7DA", "dbg": true, "cmd": {"22": "0102"}, "freq": 1, "filter": { "from": 2024 },
   "signals": [
