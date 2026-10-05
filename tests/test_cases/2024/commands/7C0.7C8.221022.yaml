@@ -10,5 +10,5 @@ test_cases:
     YARIS_FUEL_LEVEL: 33.27
   response: 7C8056210220CFF
 - expected_values:
-    YARIS_FUEL_LEVEL: 33.3
-  response: 7C8056210220D02
+    YARIS_FUEL_LEVEL: null
+  response: 7C805621022FFFF
