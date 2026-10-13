@@ -4,5 +4,8 @@ test_cases:
     YARIS_AAT_7D2: null
   response: 7DA04621F4600
 - expected_values:
+    YARIS_AAT_7D2: -2
+  response: 7DA04621F4626
+- expected_values:
     YARIS_AAT_7D2: 19
   response: 7DA04621F463B
