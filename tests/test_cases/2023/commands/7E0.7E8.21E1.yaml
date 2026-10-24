@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    YARIS_CODES_INCLUDE: 0
+  response: |-
+    7E8101461E10000131B
+    7E821000010540000E0
+    7E82251261015590641
+    > 700.708.221620
+    CAN ERROR

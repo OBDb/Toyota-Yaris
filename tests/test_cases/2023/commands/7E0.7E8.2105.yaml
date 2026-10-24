@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.2105
+test_cases:
+- expected_values:
+    YARIS_CAT_T_B1S1: 201.8
+  response: |-
+    7E80661051167090A00
+    7E80661051192097200
+    > 7B0.7B8.21A1
+    CAN ERROR
+- expected_values:
+    YARIS_CAT_T_B1S1: 255.8
+  response: |-
+    7E8066105121C0B5400
+    7E8066105122B0B8E00
+    > 700.708.221088
+    CAN ERROR

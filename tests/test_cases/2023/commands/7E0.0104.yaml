@@ -1,0 +1,15 @@
+command_id: 7E0.0104
+test_cases:
+- expected_values:
+    LOAD_PCT: 42.7451
+  response: |-
+    7E80341046900000000
+    7E80341046D00000000
+    > 700.708.221621
+    CAN ERROR
+- expected_values:
+    LOAD_PCT: 41.96078
+  response: |-
+    7E80341046B00000000
+    > 7C4.7CC.214B
+    CAN ERROR
