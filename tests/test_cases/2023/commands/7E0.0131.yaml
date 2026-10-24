@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     CLR_DIST: 1309
   response: 7E8044131051D
+- expected_values:
+    CLR_DIST: 37660
+  response: |-
+    7E8044131931C000000
+    > 000.ATRV
+    14.2V

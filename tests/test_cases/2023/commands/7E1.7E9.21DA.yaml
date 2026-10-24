@@ -1,0 +1,19 @@
+command_id: 7E1.7E9.21DA
+test_cases:
+- expected_values:
+    YARIS_TQ_CONV_TURBINE_WHL: 6
+  response: |-
+    7E90561DA0140000000
+    > 7E0.7E8.2144
+    7E8100E614400000000
+    7E82100000000000000
+    7E82200000000000000
+    > 700.708.2215E5
+    CAN ERROR
+- expected_values:
+    YARIS_TQ_CONV_TURBINE_WHL: 6
+  response: |-
+    7E90561DA0140000000
+    > 7E0.7E8.21D3
+    > 700.708.2215F8
+    CAN ERROR
