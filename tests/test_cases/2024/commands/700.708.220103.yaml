@@ -1,0 +1,32 @@
+command_id: 700.708.220103
+test_cases:
+- expected_values:
+    YARIS_ENG_ODO: 15386
+  response: 7080762010301003C1A
+- expected_values:
+    YARIS_ENG_ODO: 15387
+  response: 7080762010301003C1B
+- expected_values:
+    YARIS_ENG_ODO: 15388
+  response: 7080762010301003C1C
+- expected_values:
+    YARIS_ENG_ODO: 15389
+  response: 7080762010301003C1D
+- expected_values:
+    YARIS_ENG_ODO: 15390
+  response: 7080762010301003C1E
+- expected_values:
+    YARIS_ENG_ODO: 15391
+  response: 7080762010301003C1F
+- expected_values:
+    YARIS_ENG_ODO: 15392
+  response: 7080762010301003C20
+- expected_values:
+    YARIS_ENG_ODO: 15393
+  response: 7080762010301003C21
+- expected_values:
+    YARIS_ENG_ODO: 15394
+  response: 7080762010301003C22
+- expected_values:
+    YARIS_ENG_ODO: 15395
+  response: 7080762010301003C23

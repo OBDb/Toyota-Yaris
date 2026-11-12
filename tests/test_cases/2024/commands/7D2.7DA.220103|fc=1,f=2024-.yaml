@@ -10,5 +10,5 @@ test_cases:
     YARIS_ODO_V2_V2: 13568
   response: 7DA0762010301003500
 - expected_values:
-    YARIS_ODO_V2_V2: 14101
-  response: 7DA0762010301003715
+    YARIS_ODO_V2_V2: 15386
+  response: 7DA0762010301003C1A
