@@ -1,0 +1,8 @@
+command_id: 7D2.7DA.221039|f=2024-
+test_cases:
+- expected_values:
+    YARIS_FRONT_REAR_MOTOR_TQ: -27.974
+  response: 7DA076210392CCD12BA
+- expected_values:
+    YARIS_FRONT_REAR_MOTOR_TQ: -27.916
+  response: 7DA076210392CCD12F4

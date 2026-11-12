@@ -4,5 +4,5 @@ test_cases:
     YARIS_SOC: 29.80392
   response: 7DA04621F5B4C
 - expected_values:
-    YARIS_SOC: 60.78431
-  response: 7DA04621F5B9B
+    YARIS_SOC: 76.07843
+  response: 7DA04621F5BC2
