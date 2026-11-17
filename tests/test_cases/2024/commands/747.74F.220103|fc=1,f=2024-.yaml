@@ -1,14 +1,18 @@
 command_id: 747.74F.220103|fc=1,f=2024-
 test_cases:
 - expected_values:
-    YARIS_ODO_V6: 12837
+    YARIS_ODO_V6_RAW: 12837
+    YARIS_ODO_V6_UNIT: KM
   response: 74F0762010301003225
 - expected_values:
-    YARIS_ODO_V6: 13567
+    YARIS_ODO_V6_RAW: 13567
+    YARIS_ODO_V6_UNIT: KM
   response: 74F07620103010034FF
 - expected_values:
-    YARIS_ODO_V6: 13568
+    YARIS_ODO_V6_RAW: 13568
+    YARIS_ODO_V6_UNIT: KM
   response: 74F0762010301003500
 - expected_values:
-    YARIS_ODO_V6: 15386
+    YARIS_ODO_V6_RAW: 15386
+    YARIS_ODO_V6_UNIT: KM
   response: 74F0762010301003C1A
