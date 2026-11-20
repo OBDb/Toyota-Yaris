@@ -1,8 +1,11 @@
 command_id: 7D2.7DA.221F5B|fc=1,f=2024-
 test_cases:
 - expected_values:
+    YARIS_SOC: 29.41176
+  response: 7DA04621F5B4B
+- expected_values:
     YARIS_SOC: 29.80392
   response: 7DA04621F5B4C
 - expected_values:
-    YARIS_SOC: 76.86275
-  response: 7DA04621F5BC4
+    YARIS_SOC: 79.21569
+  response: 7DA04621F5BCA
