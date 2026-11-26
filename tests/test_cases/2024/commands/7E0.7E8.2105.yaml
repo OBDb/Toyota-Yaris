@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2105
 test_cases:
 - expected_values:
+    YARIS_CAT_T_B1S1: 165.8
+  response: 7E806610512D3080A
+- expected_values:
     YARIS_CAT_T_B1S1: 343.9
   response: 7E806610514630EFF
 - expected_values:

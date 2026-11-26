@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.2142
+test_cases:
+- expected_values:
+    YARIS_ALT_VOL_NON_ACTIVE: 8.4375
+    YARIS_BAT_CURRENT: -82.29381
+    YARIS_BAT_T: 0
+  response: |-
+    7E8100861422BBB0000
+    7E8211B000000000000
+- expected_values:
+    YARIS_ALT_VOL_NON_ACTIVE: 6.40625
+    YARIS_BAT_CURRENT: -82.25185
+    YARIS_BAT_T: 0
+  response: |-
+    7E8100861422BC60000
+    7E82114800000000000

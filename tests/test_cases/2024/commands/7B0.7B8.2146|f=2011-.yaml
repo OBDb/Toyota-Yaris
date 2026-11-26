@@ -1,0 +1,9 @@
+command_id: 7B0.7B8.2146|f=2011-
+test_cases:
+- expected_values:
+    YARIS_ZP_DEC: 0
+    YARIS_ZP_DEC2: 0
+    YARIS_ZP_YAW: 0
+  response: |-
+    7B81009614600008080
+    7B82100001F00000000

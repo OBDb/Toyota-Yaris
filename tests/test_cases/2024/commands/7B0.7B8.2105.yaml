@@ -1,0 +1,14 @@
+command_id: 7B0.7B8.2105
+test_cases:
+- expected_values:
+    YARIS_DECEL: -0.21388
+    YARIS_DECEL_2: 0.07129
+  response: |-
+    7B8100961057E8002EA
+    7B8210000E100000000
+- expected_values:
+    YARIS_DECEL: -0.07129
+    YARIS_DECEL_2: 0.07129
+  response: |-
+    7B8100961057F8002E9
+    7B82100014800000000

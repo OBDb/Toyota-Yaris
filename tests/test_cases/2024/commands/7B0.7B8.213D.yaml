@@ -1,0 +1,9 @@
+command_id: 7B0.7B8.213D
+test_cases:
+- expected_values:
+    YARIS_ABS_WARN: 0
+    YARIS_BRAKE_WARN: 0
+    YARIS_BUZZER: 0
+    YARIS_ECB_WARN: 0
+    YARIS_SLIP_WARN: 0
+  response: 7B804613D0000
