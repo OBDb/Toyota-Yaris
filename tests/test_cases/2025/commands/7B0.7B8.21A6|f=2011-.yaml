@@ -1,0 +1,7 @@
+command_id: 7B0.7B8.21A6|f=2011-
+test_cases:
+- expected_values:
+    YARIS_INSPECTION_MODE: 0
+  response: |-
+    21A6
+    7B80461A600FF

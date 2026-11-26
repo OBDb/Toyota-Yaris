@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.21E1
+test_cases:
+- expected_values:
+    YARIS_CODES_INCLUDE: 0
+  response: "7E8 10 0A 61 E1 00 02 16 FC \n7E8 21 20 00 00 62 00 00 00 "

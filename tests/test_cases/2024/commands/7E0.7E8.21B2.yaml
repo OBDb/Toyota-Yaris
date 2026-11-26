@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.21B2
+test_cases:
+- expected_values:
+    YARIS_KNOCK_ADJUST: 803.85699
+    YARIS_KNOCK_FEEDBACK: 825.38857
+  response: |-
+    7E8100C61B26C7B6F2C
+    7E8217B7D8000000100

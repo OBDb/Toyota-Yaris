@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2181
+test_cases:
+- expected_values:
+    YARIS_NOUT_SENS_V: 0
+    YARIS_NT_SENS_V: 3.75532
+    YARIS_SPD_NIN: 9600
+    YARIS_SPD_NOUT: 0
+    YARIS_SPD_NT: 1700
+  response: "7E8 10 0C 61 81 22 C0 45 C0 \n7E8 21 00 00 00 00 00 00 00 "
+- expected_values:
+    YARIS_NOUT_SENS_V: 0
+    YARIS_NT_SENS_V: 3.75532
+    YARIS_SPD_NIN: 9600
+    YARIS_SPD_NOUT: 0
+    YARIS_SPD_NT: 1700
+  response: |-
+    7E8100C618122C045C0
+    7E82100000000000000

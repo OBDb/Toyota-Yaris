@@ -1,0 +1,7 @@
+command_id: 7C0.7C8.2113
+test_cases:
+- expected_values:
+    YARIS_BAT_V: 12.5
+  response: |-
+    2113
+    7C80361137D

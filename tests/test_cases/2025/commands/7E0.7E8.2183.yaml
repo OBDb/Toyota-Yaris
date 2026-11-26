@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2183
+test_cases:
+- expected_values:
+    YARIS_G_SENS_CALIBRATION: 1
+    YARIS_G_SENS_LEARNING: 2.5
+    YARIS_TRANS_OIL_PRESS: 1
+  response: "7E8 10 08 61 83 60 08 00 03 \n7E8 21 E7 00 00 00 00 00 00 "

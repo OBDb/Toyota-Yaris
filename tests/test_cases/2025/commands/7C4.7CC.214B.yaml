@@ -1,0 +1,7 @@
+command_id: 7C4.7CC.214B
+test_cases:
+- expected_values:
+    YARIS_EVAP_FIN_THERMISTOR: 16.85
+  response: |-
+    214B
+    7CC03614B85

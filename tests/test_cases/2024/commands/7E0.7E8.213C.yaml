@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    YARIS_INJ_DUR_CYL_1: 2.938
+    YARIS_INJ_VOL_CYL_1: 8.7531250000000003e-05
+    YARIS_TOT_FT_1: 6.25
+  response: 7E807613C0AF10B7A90
+- expected_values:
+    YARIS_INJ_DUR_CYL_1: 3.579
+    YARIS_INJ_VOL_CYL_1: 0.00011
+    YARIS_TOT_FT_1: 6.64062
+  response: 7E807613C0DF50DFB91

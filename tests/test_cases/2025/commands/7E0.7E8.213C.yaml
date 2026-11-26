@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.213C
+test_cases:
+- expected_values:
+    YARIS_INJ_DUR_CYL_1: 0
+    YARIS_INJ_VOL_CYL_1: 0
+    YARIS_TOT_FT_1: 0
+  response: '7E8 07 61 3C 00 00 00 00 80 '
